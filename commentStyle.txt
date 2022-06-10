@@ -1,0 +1,94 @@
+////////////////////////////////////////////////////////////////////////////////////////////
+//DO NOT DELETE THIS SECTION
+//Every comment must be on 1 line. Also, ensure you leave a space after every end row period. 
+//If you don't have a comment for that particular learning skill leave 4 blank lines. 
+//Use the following modifiers when you want the program to automatically insert the appropriate word:
+//<First Name>     where you want the program to insert the student's first name. 
+//Where you want the program to insert the appropriate female/male/non-binary modifiers.
+//<SheHe>	She He They
+//<shehe>	she he they
+//<herhis>	her his their  
+10//<HerHis>  	Her His Their
+//<herhim>	her him them  
+//<self>  	herself himself theirself 
+//<grade>  will insert the phrase "grade #", where # represents a digit from 1-8.
+//E.g: <First Name> has put forth an inconsistent effort into taking on the role and responsibilities of a student in the <grade> program. <SheHe> pays limited attention during instructional time... 
+15//<SheHe> rarely asks questions to clarify <herhis> understanding of concepts and skills, which is critical for success. 
+////////////////////////////////////////////////////////////////////////////////////////////
+
+///////////////////////////////////////////////////////////////////////////
+//Overwrite the sentences below with your own comment sentences. You may also modify the section headings (IEP, Responsibility etc.), but don't delete them
+20IEP
+The assessment for <SUBJECTS> is based on achievement of expectations in the IEP that vary from <grade> expectations, and are a decrease in the number and/or complexity of curriculum expectations. 
+<progress report, term 1, and term 2 phrases>
+The progress report covers the first few months of term 1. 
+Comment for term 1 here. 
+25Comment for term 2 here. 
+OWNResponsibility
+<HerHis> effort is* Sentence for row 1 pays close attention during lessons (NEEDS IMPROVEMENT) here. 
+It is important for <herhis> success* Your sentence for row 1 pays close attention during lessons (SATISFACTORY) here. 
+It is important to <herhim>* <First Name> row 1 pays close attention during lessons (GOOD) here. 
+<SheHe> must push <self>* 30Your sentence for row 1 pays close attention during lessons (EXCELLENT) here. 
+Your sentence for row 2 asks questions... (NEEDS IMPROVEMENT) here. 
+Your sentence for row 2 asks questions... (SATISFACTORY) here. 
+Your sentence for row 2 asks questions... (GOOD) here. 
+Your sentence for row 2 asks questions... (EXCELLENT) here. 
+35Your sentence for row 3 takes responsibility... (NEEDS IMPROVEMENT) here. 
+Your sentence for row 3 takes responsibility... (SATISFACTORY) here. 
+Your sentence for row 3 takes responsibility... (GOOD) here. 
+Your sentence for row 3 takes responsibility... (EXCELLENT) here. 
+OWNIndependent Work
+40Your sentence for row 1 follows instructions... (NEEDS IMPROVEMENT) here. 
+Your sentence for row 1 follows instructions... (SATISFACTORY) here. 
+Your sentence for row 1 follows instructions... (GOOD) here. 
+Your sentence for row 1 follows instructions... (EXCELLENT) here. 
+OWNInitiative
+45Your sentence for row 1 approaches new tasks... (NEEDS IMPROVEMENT) here. 
+Your sentence for row 1 approaches new tasks... (SATISFACTORY) here. 
+Your sentence for row 1 approaches new tasks... (GOOD) here. 
+Your sentence for row 1 approaches new tasks... (EXCELLENT) here. 
+Your sentence for row 2 looks for new opportunities... (NEEDS IMPROVEMENT) here. 
+50Your sentence for row 2 looks for new opportunities... (SATISFACTORY) here. 
+Your sentence for row 2 looks for new opportunities... (GOOD) here. 
+Your sentence for row 2 looks for new opportunities... (EXCELLENT) here. 
+Your sentence for row 3 is willing to work hard... (NEEDS IMPROVEMENT) here. 
+Your sentence for row 3 is willing to work hard... (SATISFACTORY) here. 
+55Your sentence for row 3 is willing to work hard... (GOOD) here. 
+Your sentence for row 3 is willing to work hard... (EXCELLENT) here. 
+OWNOrganization
+Your sentence for row 1 uses class time appropriately... (NEEDS IMPROVEMENT) here. 
+Your sentence for row 1 uses class time appropriately... (SATISFACTORY) here. 
+60Your sentence for row 1 uses class time appropriately... (GOOD) here. 
+Your sentence for row 1 uses class time appropriately... (EXCELLENT) here. 
+Your sentence for row 2 uses information... (NEEDS IMPROVEMENT) here. 
+Your sentence for row 2 uses information... (SATISFACTORY) here. 
+Your sentence for row 2 uses information... (GOOD) here. 
+65Your sentence for row 2 uses information... (EXCELLENT) here. 
+OWNCollaboration
+Your sentence for row 1 accepts various roles... (NEEDS IMPROVEMENT) here. 
+Your sentence for row 1 accepts various roles... (SATISFACTORY) here. 
+Your sentence for row 1 accepts various roles... (GOOD) here. 
+70Your sentence for row 1 accepts various roles... (EXCELLENT) here. 
+Your sentence for row 2 shares information... (NEEDS IMPROVEMENT) here. 
+Your sentence for row 2 shares information... (SATISFACTORY) here. 
+Your sentence for row 2 shares information... (GOOD) here. 
+Your sentence for row 2 shares information... (EXCELLENT) here. 
+75Your sentence for row 3 builds healthy... (NEEDS IMPROVEMENT) here. 
+Your sentence for row 3 builds healthy... (SATISFACTORY) here. 
+Your sentence for row 3 builds healthy... (GOOD) here. 
+Your sentence for row 3 builds healthy... (EXCELLENT) here. 
+OWNSelf-Regulation
+80Your sentence for row 1 always puts forth... (NEEDS IMPROVEMENT) here. 
+Your sentence for row 1 always puts forth... (SATISFACTORY) here. 
+Your sentence for row 1 always puts forth... (GOOD) here. 
+Your sentence for row 1 always puts forth... (EXCELLENT) here. 
+Your sentence for row 2 perseveres to meet... (NEEDS IMPROVEMENT) here. 
+85Your sentence for row 2 perseveres to meet... (SATISFACTORY) here. 
+Your sentence for row 2 perseveres to meet... (GOOD) here. 
+Your sentence for row 2 perseveres to meet... (EXCELLENT) here. 
+Conclusion
+Your concluding sentence for REMEDIAL (<50%) here. 
+90Your concluding sentence for NEEDS IMPROVEMENT here. 
+Your concluding sentence for SATISFACTORY here. 
+Your concluding sentence for GOOD here. 
+Your concluding sentence for EXCELLENT here. 
